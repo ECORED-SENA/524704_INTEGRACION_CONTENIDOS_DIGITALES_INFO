@@ -1,7 +1,7 @@
-# **524703_INFO_TEC_ANIMACION_3D**
+# **524704_INTEGRACION_CONTENIDOS_DIGITALES_INFO**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/524703_INFO_TEC_ANIMACION_3D/](https://ecored-sena.github.io/524703_INFO_TEC_ANIMACION_3D/)
+[https://ecored-sena.github.io/524704_INTEGRACION_CONTENIDOS_DIGITALES_INFO/](https://ecored-sena.github.io/524704_INTEGRACION_CONTENIDOS_DIGITALES_INFO/)
 
 #
